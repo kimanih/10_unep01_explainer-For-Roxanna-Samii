@@ -1,0 +1,117 @@
+font-family: ?Roboto-Medium, ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 15pt;
+color: rgba(255, 255, 255, 255);
+text-align: left;
+
+Since the beginning of this century, the world has witnessed more than 2,500 disasters and 40 major conflicts. 
+
+------------------------------------------------------------------
+
+font-family: ?Roboto-Bold, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 101.333pt;
+color: rgba(255, 255, 255, 255);
+text-align: left;
+
+About Resilience to Disasters and Conflicts
+
+
+------------------------------------------------------------------
+
+font-family: ?Roboto-Bold, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 54.96718pt;
+color: rgba(0, 132, 180, 255);
+text-align: left;
+
+Since the beginning of this century, the world has witnessed more than 2,500 disasters and 40 major conflicts. 
+
+--------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 36.64479pt;
+color: rgba(0, 0, 0, 255);
+text-align: left;
+
+These tragic events – which have affected more than two billion people – destroy infrastructure, displace populations, and fundamentally undermine human security. They also compound poverty and tear apart the fabric of sustainable development. 
+UN Environment is working around the world to respond to natural disasters, industrial accidents, and human-induced crises. Since 1999, we have supported more than 40 crisis-affected countries and territories including Afghanistan, Haiti, Iraq and Sierra Leone. 
+We provide innovative and efficient environmental solutions that help countries respond to crises and prepare for future emergencies. We also work to minimize the harmful effects of environmental degradation on human well-being. 
+
+-----------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 26.17738pt;
+color: rgba(0, 0, 0, 255);
+text-align: left;
+
+Related Sustainable Development Goals
+
+--------------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 18.1228pt;
+color: rgba(56, 57, 57, 255);
+text-align: left;
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras dapibus ac facilisis in, egestas eget quam. 
+
+-------------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 74.36467pt;
+color: rgba(255, 255, 255, 255);
+text-align: left;
+
+What We’re Doing
+
+-----------------------------------------------------------------------------
+
+font-family: ?Roboto-Bold, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 49.63905pt;
+color: rgba(0, 0, 0, 255);
+text-align: left;
+
+--------------------------------------------------------------------------------
+
+font-family: ?Roboto-Bold, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 49.63905pt;
+color: rgba(0, 0, 0, 255);
+text-align: left;
+
+Risk Reduction
+
+--------------------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 66.33549pt;
+color: rgba(30, 30, 30, 255);
+text-align: left;
+
+People and Process
+
+-------------------------------------------------------------------------------
+
+font-family: ?Roboto-Bold, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 29.46738pt;
+color: rgba(0, 132, 180, 255);
+text-align: left;
+
+Beth Zhang
+
+------------------------------------------------------------------------------
+
+font-family: ?NotoSans-Bold, ?NotoSans, ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 29.48244pt;
+color: rgba(0, 132, 178, 255);
+text-align: left;
+
+See all members  ›
+
+-----------------------------------------------------------------------------
+
+font-family: ?Roboto-Regular, ?AdobeInvisFont, ?MyriadPro-Regular;
+font-size: 31.968pt;
+color: rgba(0, 66, 90, 255);
+text-align: center;
+
+Learn about our work areas
+
+------------------------------------------------------------------------------
